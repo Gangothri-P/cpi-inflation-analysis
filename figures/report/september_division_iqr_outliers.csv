@@ -1,0 +1,14 @@
+division,n,Q1,median,Q3,IQR,lower_fence,upper_fence,outliers
+CPI (General),36,4.035,5.06,5.87,1.835,1.2825000000000002,8.6225,
+Clothing and footwear,36,1.79,3.715,4.4825,2.6925,-2.2487500000000002,8.52125,
+Education services,36,1.9825,3.63,5.3825,3.4000000000000004,-3.1175000000000006,10.482500000000002,Ladakh (12.50)
+Food and beverages,36,4.56,6.4,7.905,3.3450000000000006,-0.45750000000000135,12.922500000000001,
+"Furnishings, household equipment and routine household maintenance",36,1.96,2.925,3.4925,1.5325000000000002,-0.3387500000000001,5.79125,
+Health,36,1.03,1.42,2.005,0.9749999999999999,-0.4324999999999999,3.4675,
+"Housing, water, electricity, gas and other fuels",36,2.32,2.7,3.415,1.0950000000000002,0.6774999999999995,5.0575,Madhya Pradesh (5.84); Odisha (5.12); The Dadra And Nagar Haveli And Daman And Diu (6.07)
+Information and communication,36,1.5950000000000002,2.16,2.6750000000000003,1.08,-0.02499999999999991,4.295,Rajasthan (5.30)
+"Paan, tobacco and intoxicants",36,3.63,4.87,6.585,2.955,-0.8025000000000002,11.0175,Goa (-2.08); Jammu And Kashmir (11.15); Ladakh (38.07); Manipur (15.47); Nagaland (14.26)
+"Personal care, social protection and miscellaneous goods and services",36,6.25,11.53,15.165,8.915,-7.122499999999999,28.537499999999998,
+"Recreation, sport and culture",36,1.0425,1.71,2.59,1.5474999999999999,-1.27875,4.91125,Lakshadweep (-1.65); Puducherry (6.90); The Dadra And Nagar Haveli And Daman And Diu (-1.75)
+Restaurants and accommodation services,36,4.745,8.17,10.4375,5.6925,-3.79375,18.97625,
+Transport,36,4.01,4.970000000000001,5.7825,1.7725,1.3512499999999998,8.44125,Ladakh (14.82); Meghalaya (0.77)
